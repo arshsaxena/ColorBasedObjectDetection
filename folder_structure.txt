@@ -5,7 +5,9 @@
 │   └── util.py
 ├── folder_structure.txt
 ├── report
-│   └── report.docx
+│   ├── assets
+│   │   └── screenshot.png
+│   └── report.pdf
 └── requirements.txt
 
-3 directories, 6 files
+4 directories, 7 files
