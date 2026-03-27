@@ -1,0 +1,11 @@
+.
+├── README.md
+├── code
+│   ├── main.py
+│   └── util.py
+├── folder_structure.txt
+├── report
+│   └── report.docx
+└── requirements.txt
+
+3 directories, 6 files
