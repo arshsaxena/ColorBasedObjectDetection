@@ -1,4 +1,4 @@
-# ColorTracker
+# ColorBasedObjectDetection
 
 A real-time computer vision application that detects, tracks, and analyzes specific colors from a video feed using OpenCV. This project simplifies color measurement and object tracking for educational and hobbyist purposes.
 
